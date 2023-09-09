@@ -9,21 +9,17 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
-    <script defer src="javascript/app.js"></script>
+    <script src="javascript/app.js" defer></script>
+   
 
     <!--Chamando o css-->
     <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
-    <!--exemplo menu com imagem<ul>
-    <li>
-        <a href="servicos.html"><img src="img/imagem.png"/>Serviços</a>
-    </li>
-</ul>-->
     <div id="about-container">
         <div id="brand">
             <img src="img/saasweeklogo.png" alt="SmiimS">
-            <h1>Contatos</h1>
+            <h1>contato</h1>
             <div id="menu_pgs">
                 
                 <nav id="nav_menu">
@@ -78,19 +74,21 @@
     <div id="form-container">
         <div id="form-inner">
             <h3>Entre em contato!</h3>
-            <p>E converse com um especialista!</p>
-            <form id="register-form" action="https://formsubmit.co/ajax/smiims@smiims.com.br"
+            <p>Todos os dados são obrigatórios*</p>
+            <form action="https://formsubmit.co/ajax/smiims@smiims.com.br"
             method="POST" data-form >
                 <div id="name-container">
-                    <input type="text" name="nome" id="nome" placeholder="Nome" required/>
-                    <input type="text" name="lastname" id="lastname" placeholder="Sobrenome" required/>
+                    <input type="text" name="nome" id="nome" placeholder="Nome*" required/>
+                    <input type="text" name="lastname" id="lastname" placeholder="Sobrenome*" required/>
                 </div>
-                <input type="email" name="email" id="email" placeholder="Digite seu email" required/>
+                <input type="email" name="email" id="email" placeholder="Digite seu email*" required/>
                 <label for="mensagem">Mensagem</label>
-                <textarea name="mensagem" id="mensagem" placeholder="Mensagem" required></textarea>
+                <textarea name="mensagem" id="mensagem" placeholder="Mensagem*" required></textarea>
                 <input type="reset" name="limpar" value="Limpar todos campos">
                 <button type="submit" data-button>Enviar</button>
+                
             </form>
+           
             <div id="benefits">
                 <h4>Áreas de atuação</h4>
                 <ul>

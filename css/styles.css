@@ -48,6 +48,10 @@ body {
 
 }
 
+#nav_menu {
+    max-width: 498px;
+}
+
 #date {
     text-transform: uppercase;
     color: #aaa;

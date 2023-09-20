@@ -26,6 +26,7 @@ body {
     height: 45rem;
     padding: 0 2.4rem;
     border: 20px solid beige;
+    margin-left: 1rem;
     gap: 3rem;
     
     
@@ -41,6 +42,7 @@ body {
     height: 25rem;
     padding: 0 2.4rem;
     border: 20px solid beige;
+    margin-left: 1rem;
     gap: 3rem;
     
     
@@ -56,6 +58,7 @@ body {
     height: 40rem;
     padding: 0 2.4rem;
     border: 20px solid beige;
+    margin-left: 1rem;
     gap: 3rem;
     
     
@@ -71,6 +74,7 @@ body {
     height: 50rem;
     padding: 0 2.4rem;
     border: 20px solid beige;
+    margin-left: 1rem;
     /*gap: 3rem;*/
     
     

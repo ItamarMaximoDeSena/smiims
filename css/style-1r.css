@@ -8,8 +8,15 @@
 
 
 body {
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    justify-content: space-between;
     font-size: 1.6rem;
     font-family: 'Roboto', sans-serif;
+    align-items: center;
+    padding: 1rem;
+    
   }
   
   a {
@@ -26,9 +33,10 @@ body {
     height: 45rem;
     padding: 0 2.4rem;
     border: 20px solid beige;
-    margin-left: 1rem;
+   /* margin-left: 1rem;*/
     gap: 3rem;
-    
+    /*margin: 1px;*/
+    width: 130rem;
     
 
 
@@ -42,8 +50,9 @@ body {
     height: 25rem;
     padding: 0 2.4rem;
     border: 20px solid beige;
-    margin-left: 1rem;
+    /*margin-left: 1rem;*/
     gap: 3rem;
+    width: 130rem;
     
     
 
@@ -58,8 +67,9 @@ body {
     height: 40rem;
     padding: 0 2.4rem;
     border: 20px solid beige;
-    margin-left: 1rem;
+    /*margin-left: 1rem;*/
     gap: 3rem;
+    width: 130rem;
     
     
 
@@ -74,8 +84,9 @@ body {
     height: 50rem;
     padding: 0 2.4rem;
     border: 20px solid beige;
-    margin-left: 1rem;
+    /*margin-left: 1rem;*/
     /*gap: 3rem;*/
+    width: 130rem;
     
     
 
@@ -92,7 +103,7 @@ body {
     padding: 0 2.4rem;
     border: 20px solid beige;
     /*gap: 3rem;*/
-    
+    width: 130rem;
     
 
 
@@ -107,7 +118,7 @@ body {
     padding: 0 2.4rem;
     border: 20px solid beige;
     /*gap: 3rem;*/
-    
+    width: 130rem;
     
 
 
@@ -122,7 +133,7 @@ body {
     padding: 0 2.4rem;
     border: 20px solid beige;
     /*gap: 3rem;*/
-    
+    width: 130rem;
     
 
 

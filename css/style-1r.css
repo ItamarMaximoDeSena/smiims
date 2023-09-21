@@ -16,8 +16,7 @@ body {
     font-family: 'Roboto', sans-serif;
     align-items: center;
     padding: 1rem;
-    max-width: 400px;
-    margin: 4rem;
+    max-width: 100%;
     
   }
   
@@ -34,19 +33,15 @@ body {
     justify-content: space-between;
     align-items: center;
     height: 45rem;
-    padding: 0 10.4rem;
+    padding: 0 2.4rem;
     border: 22px solid beige;
    /* margin-left: 1rem;*/
     gap: 3rem;
     /*margin: 1px;*/
-    width: 50rem;
-    margin: 2rem;
+    width: 115rem;
     
 
 
-}
-#h1a {
-    width: 10rem;
 }
 
 #hd2 {
@@ -152,16 +147,16 @@ hr{
 }
 
 #img1 {
-    width: 150px;
-    height: 110px;
+    width: 850px;
+    height: 610px;
 }
 
 #img2 {
-    width: 150px;
-    height: 160px;
+    width: 630px;
+    height: 510px;
 }
 
 #img3 {
-    width: 130px;
-    height: 110px;
+    width: 630px;
+    height: 310px;
 }

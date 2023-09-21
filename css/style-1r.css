@@ -16,11 +16,13 @@ body {
     font-family: 'Roboto', sans-serif;
     align-items: center;
     padding: 1rem;
+    max-width: 100%;
     
   }
   
   a {
     text-decoration: none;
+    
   }
 
 
@@ -32,11 +34,11 @@ body {
     align-items: center;
     height: 45rem;
     padding: 0 2.4rem;
-    border: 20px solid beige;
+    border: 22px solid beige;
    /* margin-left: 1rem;*/
     gap: 3rem;
     /*margin: 1px;*/
-    width: 100rem;
+    width: 115rem;
     
 
 
@@ -52,7 +54,7 @@ body {
     border: 20px solid beige;
     /*margin-left: 1rem;*/
     gap: 3rem;
-    width: 100rem;
+    width: 115rem;
     
     
 
@@ -64,12 +66,12 @@ body {
     justify-items: center;
     justify-content: space-between;
     align-items: center;
-    height: 40rem;
+    height: 38rem;
     padding: 0 2.4rem;
     border: 20px solid beige;
     /*margin-left: 1rem;*/
     gap: 3rem;
-    width: 100rem;
+    width: 115rem;
     
     
 
@@ -81,12 +83,12 @@ body {
     justify-items: center;
     justify-content: space-between;
     align-items: center;
-    height: 50rem;
+    height: 60rem;
     padding: 0 2.4rem;
     border: 20px solid beige;
     /*margin-left: 1rem;*/
     /*gap: 3rem;*/
-    width: 100rem;
+    width: 115rem;
     
     
 
@@ -99,11 +101,11 @@ body {
     justify-items: center;
     justify-content: space-between;
     align-items: center;
-    height: 30rem;
+    height: 26rem;
     padding: 0 2.4rem;
     border: 20px solid beige;
     /*gap: 3rem;*/
-    width: 100rem;
+    width: 115rem;
     
 
 
@@ -118,7 +120,7 @@ body {
     padding: 0 2.4rem;
     border: 20px solid beige;
     /*gap: 3rem;*/
-    width: 100rem;
+    width: 115rem;
     
 
 
@@ -133,7 +135,7 @@ body {
     padding: 0 2.4rem;
     border: 20px solid beige;
     /*gap: 3rem;*/
-    width: 100rem;
+    width: 115rem;
     
 
 
@@ -141,4 +143,20 @@ body {
 
 hr{
     display: flex;
+    width: 115rem;
+}
+
+#img1 {
+    width: 850px;
+    height: 610px;
+}
+
+#img2 {
+    width: 630px;
+    height: 510px;
+}
+
+#img3 {
+    width: 630px;
+    height: 310px;
 }

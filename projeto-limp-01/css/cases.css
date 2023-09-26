@@ -403,15 +403,15 @@ input[type=submit]{
 /*Autor Itamar Maximo De Sena*/
 /* Csaes-main H1 */
 #cases-main {
-    margin-top: 2rem;
+    margin-top: 1.5rem;
     margin-inline: 4rem;
     color: #fff;
     }
     /* Imagem texto linha cases */
     #img-texto-linha-01 {
     width: 180px;
-    height: 40px;
-    padding: auto;
+    height: 30px;
+    
     }
 
     #container-main-top {
@@ -446,9 +446,9 @@ input[type=submit]{
     margin: 0.3rem;
     margin-left: 15rem;
     margin-right: 15rem;
-    padding: 0.2rem;
+    padding: 0.3rem;
     background-color: beige;
-    height: 8rem;
+    height: 9rem;
     }
     
     #container-main-a, 

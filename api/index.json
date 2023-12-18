@@ -1,5 +1,7 @@
-{"slip":
-{ 
+{"page":1, 
+"data":
+    [
+    { 
       "id": 7864,
       "produto": "geladeira",
       "marcas": ["Electrolux", "Brastemp", "Consul"],
@@ -8,4 +10,29 @@
       "categoria": "B",
       "preco": 2000,
       "qtd_estoque":20
-    }}
+    },
+
+    { 
+        "id": 7865,
+        "produto": "microondas",
+        "marcas": ["Electrolux", "Brastemp", "Oster"],
+        "idLojas": [45, 67, 129, 228],
+        "pronta_Entrega": true,
+        "categoria": "C",
+        "preco": 1000,
+        "qtd_estoque":50
+    },
+
+    { 
+        "id": 7866,
+        "produto": "fogao",
+        "marcas": ["Dako", "Brastemp", "Continental"],
+        "idLojas": [45, 67, 129, 228],
+        "pronta_Entrega": true,
+        "categoria": "A",
+        "preco": 500,
+        "qtd_estoque":100
+    }
+
+    ]
+}

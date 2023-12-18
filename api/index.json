@@ -1,8 +1,8 @@
- 
-
-    
+{
+"data":
+    [
     { 
-      "id": 1,
+      "id": 7864,
       "produto": "geladeira",
       "marcas": ["Electrolux", "Brastemp", "Consul"],
       "idLojas": [45, 67, 129, 228],
@@ -13,7 +13,7 @@
     },
 
     { 
-        "id": 2,
+        "id": 7865,
         "produto": "microondas",
         "marcas": ["Electrolux", "Brastemp", "Oster"],
         "idLojas": [45, 67, 129, 228],
@@ -24,7 +24,7 @@
     },
 
     { 
-        "id": 3,
+        "id": 7866,
         "produto": "fogao",
         "marcas": ["Dako", "Brastemp", "Continental"],
         "idLojas": [45, 67, 129, 228],
@@ -34,4 +34,5 @@
         "qtd_estoque":100
     }
 
-    
+    ]
+}

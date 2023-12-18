@@ -3,7 +3,7 @@
   "features": {
     "ghcr.io/devcontainers/features/terraform:1": {
 
-      {
+      
         "products": [
             {
                 "id": 1,
@@ -563,6 +563,6 @@
         "limit": 30
     }
       
-    }
+    
   }
 }
